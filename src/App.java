@@ -20,6 +20,6 @@ public class App {
 
         double media = (nota1+nota2+nota3+nota4)/4;
 
-        System.out.println("A soma dos números informado é: "+media);
+        System.out.println("A média das notas é: "+media);
     }
 }
